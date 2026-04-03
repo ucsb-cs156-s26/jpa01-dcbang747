@@ -1,4 +1,4 @@
-# dcbang747-jpa01
+# jpa01-dcbang747
 
 * TODO: Change the title of this README (above)
   in the text `# STARTER-jpa01` above
